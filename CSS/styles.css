@@ -38,3 +38,7 @@
 .navbar-dark {
     background-color: #512DA8;
 }
+
+.card-header-color {
+    background-color: rgb(230, 181, 23);
+}
